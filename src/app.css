@@ -1,0 +1,13 @@
+img {
+    width: 100px;
+    height: 100px;
+}
+
+.token-card {
+    display: flex;
+}
+
+.tokenimg {
+    width: 10px;
+    height: 10px;
+}
